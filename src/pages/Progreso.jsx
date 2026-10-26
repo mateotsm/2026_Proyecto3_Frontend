@@ -1,0 +1,8 @@
+export default function Progreso() {
+  return (
+    <div>
+      <h1>Progreso</h1>
+      <p>Gestión de progreso.</p>
+    </div>
+  );
+}
